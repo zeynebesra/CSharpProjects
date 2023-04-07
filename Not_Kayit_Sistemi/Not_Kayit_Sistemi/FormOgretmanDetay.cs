@@ -31,7 +31,7 @@ namespace Not_Kayit_Sistemi
         private void button1_Click(object sender, EventArgs e)
         {
             baglanti.Open();
-            SqlCommand komut = new SqlCommand("insert into TBLDERS (OGRNUMARA, OGRAD, OGRSOYAD) values (@p1,@p2,@p3)", baglanti);
+            SqlCommand komut = new SqlCommand("insert into TBLDERS (OGRNUMARA, OGRAD, OGRASOYAD) values (@p1,@p2,@p3)", baglanti);
             komut.Parameters.AddWithValue("@p1", MskNumara.Text);
             komut.Parameters.AddWithValue("@p2", TxtAd.Text);
             komut.Parameters.AddWithValue("@p3", TxtSoyad.Text);
@@ -75,7 +75,7 @@ namespace Not_Kayit_Sistemi
             }
 
             baglanti.Open();
-            SqlCommand komut = new SqlCommand("update TBLDERS set OGRS1=@p1,OGRS2=@p2,OGRS3=@p3,ORTALAM=@p4,DURUM=@p5 where OGRNUMARA=@p6", baglanti);
+            SqlCommand komut = new SqlCommand("update TBLDERS set OGRS1=@p1,OGRS2=@p2,OGRS3=@p3,ORTALAMA=@p4,DURUM=@p5 where OGRNUMARA=@p6", baglanti);
             komut.Parameters.AddWithValue("@p1", TxtSinav1.Text);
             komut.Parameters.AddWithValue("@p2", TxtSinav2.Text);
             komut.Parameters.AddWithValue("@p3", TxtSinav3.Text);
