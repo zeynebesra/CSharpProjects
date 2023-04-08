@@ -1,0 +1,11 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.FrmGrafik.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\bin\Debug\Secim_Istatistik_Grafik_Sistemi.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\bin\Debug\Secim_Istatistik_Grafik_Sistemi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\bin\Debug\Secim_Istatistik_Grafik_Sistemi.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Secim_Istatistik_Grafik_Sistemi\Secim_Istatistik_Grafik_Sistemi\obj\Debug\Secim_Istatistik_Grafik_Sistemi.pdb
