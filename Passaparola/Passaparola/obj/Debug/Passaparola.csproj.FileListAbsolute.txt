@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\bin\Debug\Passaparola.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\bin\Debug\Passaparola.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\bin\Debug\Passaparola.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\obj\Debug\Passaparola.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\obj\Debug\Passaparola.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Passaparola\Passaparola\obj\Debug\Passaparola.pdb
