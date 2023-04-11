@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\bin\Debug\Film_Arsiv_İzleme_Sistemi.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\bin\Debug\Film_Arsiv_İzleme_Sistemi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\bin\Debug\Film_Arsiv_İzleme_Sistemi.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\obj\Debug\Film_Arsiv_İzleme_Sistemi.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\obj\Debug\Film_Arsiv_İzleme_Sistemi.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\obj\Debug\Film_Arsiv_İzleme_Sistemi.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\obj\Debug\Film_Arsiv_İzleme_Sistemi.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\obj\Debug\Film_Arsiv_İzleme_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\obj\Debug\Film_Arsiv_İzleme_Sistemi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Film_Arsiv_İzleme_Sistemi\Film_Arsiv_İzleme_Sistemi\obj\Debug\Film_Arsiv_İzleme_Sistemi.pdb
