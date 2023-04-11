@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.pdb
