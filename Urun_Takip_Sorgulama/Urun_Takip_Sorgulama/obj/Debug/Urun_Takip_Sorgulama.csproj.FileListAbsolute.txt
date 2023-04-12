@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\bin\Debug\Urun_Takip_Sorgulama.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\bin\Debug\Urun_Takip_Sorgulama.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\bin\Debug\Urun_Takip_Sorgulama.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\obj\Debug\Urun_Takip_Sorgulama.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\obj\Debug\Urun_Takip_Sorgulama.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\obj\Debug\Urun_Takip_Sorgulama.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\obj\Debug\Urun_Takip_Sorgulama.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\obj\Debug\Urun_Takip_Sorgulama.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\obj\Debug\Urun_Takip_Sorgulama.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Urun_Takip_Sorgulama\Urun_Takip_Sorgulama\obj\Debug\Urun_Takip_Sorgulama.pdb
