@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\bin\Debug\Access_Ingilizce_Kelime_Uygulama.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\bin\Debug\Access_Ingilizce_Kelime_Uygulama.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\bin\Debug\Access_Ingilizce_Kelime_Uygulama.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\obj\Debug\Access_Ingilizce_Kelime_Uygulama.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\obj\Debug\Access_Ingilizce_Kelime_Uygulama.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\obj\Debug\Access_Ingilizce_Kelime_Uygulama.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\obj\Debug\Access_Ingilizce_Kelime_Uygulama.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\obj\Debug\Access_Ingilizce_Kelime_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\obj\Debug\Access_Ingilizce_Kelime_Uygulama.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Access_Ingilizce_Kelime_Uygulama\Access_Ingilizce_Kelime_Uygulama\obj\Debug\Access_Ingilizce_Kelime_Uygulama.pdb
