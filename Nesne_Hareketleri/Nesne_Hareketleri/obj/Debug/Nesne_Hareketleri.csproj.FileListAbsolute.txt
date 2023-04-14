@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\bin\Debug\Nesne_Hareketleri.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\bin\Debug\Nesne_Hareketleri.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\bin\Debug\Nesne_Hareketleri.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\obj\Debug\Nesne_Hareketleri.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\obj\Debug\Nesne_Hareketleri.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\obj\Debug\Nesne_Hareketleri.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\obj\Debug\Nesne_Hareketleri.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\obj\Debug\Nesne_Hareketleri.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\obj\Debug\Nesne_Hareketleri.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Nesne_Hareketleri\Nesne_Hareketleri\obj\Debug\Nesne_Hareketleri.pdb
