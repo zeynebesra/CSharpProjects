@@ -1,0 +1,11 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\bin\Debug\Messaging.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\bin\Debug\Messaging.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\bin\Debug\Messaging.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.Form2.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Messaging\Messaging\obj\Debug\Messaging.pdb
