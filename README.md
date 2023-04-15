@@ -1,6 +1,9 @@
 "# CSharpProjects" 
 
-C# İle 25 Derste 25 Uygulamalı Proje
+C# İle 25 Derste 25 Uygulamalı Proje Kursu
+
+| Murat Yücedağ
+
 
 1. Öğrenci Sınav Not Kayıt Sistemi
  

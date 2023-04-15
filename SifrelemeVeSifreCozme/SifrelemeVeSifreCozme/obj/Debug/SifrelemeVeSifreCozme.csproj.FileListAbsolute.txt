@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\obj\Debug\SifrelemeVeSifreCozme.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\obj\Debug\SifrelemeVeSifreCozme.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\obj\Debug\SifrelemeVeSifreCozme.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\obj\Debug\SifrelemeVeSifreCozme.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\obj\Debug\SifrelemeVeSifreCozme.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\bin\Debug\SifrelemeVeSifreCozme.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\bin\Debug\SifrelemeVeSifreCozme.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\bin\Debug\SifrelemeVeSifreCozme.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\obj\Debug\SifrelemeVeSifreCozme.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\SifrelemeVeSifreCozme\SifrelemeVeSifreCozme\obj\Debug\SifrelemeVeSifreCozme.pdb
