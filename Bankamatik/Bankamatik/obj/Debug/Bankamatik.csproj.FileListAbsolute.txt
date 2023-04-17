@@ -1,0 +1,12 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\bin\Debug\Bankamatik.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form2.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form3.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Bankamatik\Bankamatik\obj\Debug\Bankamatik.pdb
