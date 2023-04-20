@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\bin\Debug\Test_Trigger.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\bin\Debug\Test_Trigger.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\bin\Debug\Test_Trigger.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.pdb
