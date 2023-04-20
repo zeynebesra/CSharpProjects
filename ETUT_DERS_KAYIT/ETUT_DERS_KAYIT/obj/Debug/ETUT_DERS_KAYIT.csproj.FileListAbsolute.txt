@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\bin\Debug\ETUT_DERS_KAYIT.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\bin\Debug\ETUT_DERS_KAYIT.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\bin\Debug\ETUT_DERS_KAYIT.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\obj\Debug\ETUT_DERS_KAYIT.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\obj\Debug\ETUT_DERS_KAYIT.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\obj\Debug\ETUT_DERS_KAYIT.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\obj\Debug\ETUT_DERS_KAYIT.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\obj\Debug\ETUT_DERS_KAYIT.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\obj\Debug\ETUT_DERS_KAYIT.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\ETUT_DERS_KAYIT\ETUT_DERS_KAYIT\obj\Debug\ETUT_DERS_KAYIT.pdb
