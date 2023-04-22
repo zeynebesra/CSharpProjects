@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\bin\Debug\Rezervasyon_Sistemi.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\bin\Debug\Rezervasyon_Sistemi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\bin\Debug\Rezervasyon_Sistemi.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\obj\Debug\Rezervasyon_Sistemi.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\obj\Debug\Rezervasyon_Sistemi.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\obj\Debug\Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\obj\Debug\Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\obj\Debug\Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\obj\Debug\Rezervasyon_Sistemi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Rezervasyon_Sistemi\Rezervasyon_Sistemi\obj\Debug\Rezervasyon_Sistemi.pdb
