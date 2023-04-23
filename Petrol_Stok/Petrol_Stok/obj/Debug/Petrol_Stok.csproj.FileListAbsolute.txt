@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\bin\Debug\Petrol_Stok.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\bin\Debug\Petrol_Stok.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\bin\Debug\Petrol_Stok.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\obj\Debug\Petrol_Stok.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\obj\Debug\Petrol_Stok.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\obj\Debug\Petrol_Stok.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\obj\Debug\Petrol_Stok.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\obj\Debug\Petrol_Stok.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\obj\Debug\Petrol_Stok.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Petrol_Stok\Petrol_Stok\obj\Debug\Petrol_Stok.pdb
