@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\bin\Debug\Resim_Yazi.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\bin\Debug\Resim_Yazi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\bin\Debug\Resim_Yazi.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\obj\Debug\Resim_Yazi.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\obj\Debug\Resim_Yazi.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\obj\Debug\Resim_Yazi.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\obj\Debug\Resim_Yazi.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\obj\Debug\Resim_Yazi.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\obj\Debug\Resim_Yazi.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Resim_Yazi\Resim_Yazi\obj\Debug\Resim_Yazi.pdb
