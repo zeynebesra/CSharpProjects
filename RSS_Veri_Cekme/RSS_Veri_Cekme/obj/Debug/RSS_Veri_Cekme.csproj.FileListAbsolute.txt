@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\bin\Debug\RSS_Veri_Cekme.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\bin\Debug\RSS_Veri_Cekme.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\bin\Debug\RSS_Veri_Cekme.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\obj\Debug\RSS_Veri_Cekme.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\obj\Debug\RSS_Veri_Cekme.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\obj\Debug\RSS_Veri_Cekme.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\obj\Debug\RSS_Veri_Cekme.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\obj\Debug\RSS_Veri_Cekme.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\obj\Debug\RSS_Veri_Cekme.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\RSS_Veri_Cekme\RSS_Veri_Cekme\obj\Debug\RSS_Veri_Cekme.pdb
