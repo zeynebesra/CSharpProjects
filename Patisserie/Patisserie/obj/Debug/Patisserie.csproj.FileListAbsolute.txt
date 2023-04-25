@@ -1,0 +1,10 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\bin\Debug\Patisserie.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\bin\Debug\Patisserie.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\bin\Debug\Patisserie.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\obj\Debug\Patisserie.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\obj\Debug\Patisserie.Form1.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\obj\Debug\Patisserie.Properties.Resources.resources
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\obj\Debug\Patisserie.csproj.GenerateResource.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\obj\Debug\Patisserie.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\obj\Debug\Patisserie.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\CSharp_25Projects\Patisserie\Patisserie\obj\Debug\Patisserie.pdb
